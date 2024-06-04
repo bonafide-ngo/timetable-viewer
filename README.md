@@ -1,7 +1,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 # Timetable Viewer
-The open source Timetable Viewer application for powering schools, colleges and universities. Timetable Viewer makes it easy to interface with any timetabling data and generate dynamic timetables with accessibility and usability in mind. Users, staff and admins can access real-time timetables from the Web using a cross-browser responsive interface or via their Andorid and iOS mobile devices using a mobile app.
+The open-source Timetable Viewer application for powering schools, colleges and universities. Timetable Viewer makes it easy to interface with any timetabling data and generate dynamic timetables with accessibility and usability in mind. Users, staff and admins can access real-time timetables from the Web using a cross-browser responsive interface or via their Andorid and iOS mobile devices using a mobile app.
 
 ## [Wiki](https://github.com/bonafide-ngo/timetable-viewer/wiki)
 - Requirements

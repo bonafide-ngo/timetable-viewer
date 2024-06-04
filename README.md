@@ -13,4 +13,5 @@ The open-source Timetable Viewer application for powering schools, colleges and 
 ![](https://bonafide.ngo/img/favicon/favicon-32x32.png) [Bona Fide NGO](https://bonafide.ngo) is the co-maintainer of Timetable Viewer, playing the vital role in ensuring the project thrives and delivers the best results for end-users, educational organisations and stakeholders.
 
 ## Sponsorship
-![](https://www.maynoothuniversity.ie/sites/default/files/favicon.ico) [Maynooth University](https://mu.ie) is the project sponsor, providing the necessary business requirements and financial resources to support the design, development and maintainance of the Tietable Viewer open-source initiative.
+The following organisations are sponsoring the project, providing the necessary business requirements and financial resources to support the design, development and maintainance of the Timetable Viewer open-source initiative:
+> ![](https://www.maynoothuniversity.ie/sites/default/files/favicon.ico) [Maynooth University](https://mu.ie)

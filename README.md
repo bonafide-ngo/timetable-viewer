@@ -21,7 +21,7 @@ Timetable Viewer streamlines the scheduling process, enhances user experience, a
 - **Open-Source Flexibility:** Allows for customization and integration with existing institutional systems, making it adaptable to specific needs.
 
 ## [Wiki](https://github.com/bonafide-ngo/timetable-viewer/wiki)
-- [Requirements](https://github.com/bonafide-ngo/timetable-viewer/wiki/Personas)
+- [Requirements](https://github.com/bonafide-ngo/timetable-viewer/wiki/Requirements)
 - [Personas](https://github.com/bonafide-ngo/timetable-viewer/wiki/Personas)
 - Functional specifications
 - Non-Functional specifications

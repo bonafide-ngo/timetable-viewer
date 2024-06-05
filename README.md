@@ -5,7 +5,7 @@ The open-source Timetable Viewer application for powering schools, colleges and 
 
 ## [Wiki](https://github.com/bonafide-ngo/timetable-viewer/wiki)
 - [Requirements](Requirements)
-- Personas
+- [Personas](Personas)
 - Functional specifications
 - Non-Functional specifications
 

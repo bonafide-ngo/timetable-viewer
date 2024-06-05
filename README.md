@@ -4,7 +4,7 @@
 The open-source Timetable Viewer application for powering schools, colleges and universities. Timetable Viewer makes it easy to interface with any timetabling data and generate dynamic timetables with accessibility and usability in mind. Users, staff and admins can access real-time timetables from the Web using a cross-browser responsive interface or via their Andorid and iOS mobile devices using a mobile app.
 
 ## [Wiki](https://github.com/bonafide-ngo/timetable-viewer/wiki)
-- Requirements
+- [Requirements](Requirements)
 - Personas
 - Functional specifications
 - Non-Functional specifications

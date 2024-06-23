@@ -23,8 +23,9 @@ Timetable Viewer streamlines the scheduling process, enhances user experience, a
 ## [Wiki](https://github.com/bonafide-ngo/timetable-viewer/wiki)
 - [Requirements](https://github.com/bonafide-ngo/timetable-viewer/wiki/Requirements)
 - [Personas](https://github.com/bonafide-ngo/timetable-viewer/wiki/Personas)
-- Functional specifications
-- Non-Functional specifications
+- Functional Specifications
+- [Non-Functional Specifications](https://github.com/bonafide-ngo/timetable-viewer/wiki/Non‐Functional-Specifications)
+- [TODO](https://github.com/bonafide-ngo/timetable-viewer/wiki/TODO)
 
 ## Stewardship
 ![](https://bonafide.ngo/img/favicon/favicon-32x32.png) [Bona Fide NGO](https://bonafide.ngo) is the original custodian of the open-source Timetable Viewer, ensuring it meets the needs of users, educational institutions, and stakeholders. They provide vital support, expertise, and guidance, helping the project thrive and deliver optimal results. Their commitment improves efficiency and accessibility in education.

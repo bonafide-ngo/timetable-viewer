@@ -29,7 +29,7 @@ Timetable Viewer streamlines the scheduling process, enhances user experience, a
 - [TODO](https://github.com/bonafide-ngo/timetable-viewer/wiki/TODO)
 
 ## Stewardship
-![](https://bonafide.ngo/img/favicon/favicon-32x32.png) [Bona Fide NGO](https://bonafide.ngo) is the original custodian of the open-source Timetable Viewer, ensuring it meets the needs of users, educational institutions, and stakeholders. They provide vital support, expertise, and guidance, helping the project thrive and deliver optimal results. Their commitment improves efficiency and accessibility in education.
+![](https://bonafide.ngo/img/favicon/favicon-32x32.png) [Bona Fide NGO](https://bonafide.ngo) is the original custodian of the open-source Timetable Viewer, ensuring it meets the needs of users, educational institutions, and stakeholders. They provide vital support, expertise, and guidance, helping the project thrive and deliver optimal results. Their commitment improves efficiency and accessibility in the educational sector.
 
 ## Sponsorship
 The project is sponsored by the following organizations, offering essential business requirements and financial support for the design, development, and maintenance of the Timetable Viewer open-source initiative:

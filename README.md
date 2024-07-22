@@ -26,6 +26,7 @@ Timetable Viewer streamlines the scheduling process, enhances user experience, a
 - [Functional Specifications](https://github.com/bonafide-ngo/timetable-viewer/wiki/Functional-Specifications)
 - [Non-Functional Specifications](https://github.com/bonafide-ngo/timetable-viewer/wiki/Non‐Functional-Specifications)
 - [Data Architecture](https://github.com/bonafide-ngo/timetable-viewer/wiki/Data-Architecture)
+- [Data Model](https://github.com/bonafide-ngo/timetable-viewer/wiki/Data-Model)
 - [TODO](https://github.com/bonafide-ngo/timetable-viewer/wiki/TODO)
 
 ## Stewardship
